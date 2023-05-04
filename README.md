@@ -1,7 +1,7 @@
 # vagrant-config
 Vagrantfile
 
-1st. with gnome desktop (port forwarding 3389 3390)
+1st. with gnome desktop and snap-store (port forwarding 3389 3390)
 
 2nd. with docker and wireguard (port forwarding 5000 5001)
 
